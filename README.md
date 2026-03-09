@@ -30,6 +30,9 @@ Pour ce projet, j'ai implémenté plusieurs concepts avancés de développement 
 3. **Optimisation des Performances :** Utilisation de `useMemo` pour les calculs de conversion afin d'éviter les re-rendus inutiles et de `useCallback` pour les fonctions de mise à jour.
 4. **Debouncing :** Implémentation d'un timer sur le `useEffect` pour ne déclencher les appels historiques qu'après une pause dans la saisie de l'utilisateur.
 
+## 📸 Aperçu
+<img width="1056" height="706" alt="Capture d&#39;écran 2026-03-09 230746" src="https://github.com/user-attachments/assets/6c6e43bf-7388-4834-b5bd-0638969c66d0" />
+
 ## 🚀 Installation & Utilisation
 1. Clonez le dépôt : `git clone https://github.com/votre-nom/crypto-dash.git`
 2. Installez les dépendances : `npm install`
