@@ -30,28 +30,10 @@ Pour ce projet, j'ai implémenté plusieurs concepts avancés de développement 
 3. **Optimisation des Performances :** Utilisation de `useMemo` pour les calculs de conversion afin d'éviter les re-rendus inutiles et de `useCallback` pour les fonctions de mise à jour.
 4. **Debouncing :** Implémentation d'un timer sur le `useEffect` pour ne déclencher les appels historiques qu'après une pause dans la saisie de l'utilisateur.
 
-## 🚀 Installation
-
-1. Clonez le dépôt :
-```bash
-git clone https://github.com/votre-nom/crypto-dash.git
-
-```
-
-
-2. Installez les dépendances :
-```bash
-npm install
-
-```
-
-
-3. Lancez le serveur de développement :
-```bash
-npm run dev
-
-```
-
+## 🚀 Installation & Utilisation
+1. Clonez le dépôt : `git clone https://github.com/votre-nom/crypto-dash.git`
+2. Installez les dépendances : `npm install`
+3. Lancez le serveur de développement : `npm run dev`
 4. Ouvrez [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) dans votre navigateur.
 
 ---
