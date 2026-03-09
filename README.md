@@ -1,5 +1,3 @@
----
-
 # 🪙 CryptoDash : L'Expertise de Conversion en Temps Réel
 
 **CryptoDash** est une application web de conversion de devises ultra-performante conçue avec **Next.js 14**. Bien plus qu'un simple convertisseur, elle combine une esthétique de dashboard "Premium Widget" avec une logique mathématique de taux croisés (Cross-rates) via l'API CoinGecko.
@@ -35,5 +33,3 @@ Pour ce projet, j'ai implémenté plusieurs concepts avancés de développement 
 2. Installez les dépendances : `npm install`
 3. Lancez le serveur de développement : `npm run dev`
 4. Ouvrez [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) dans votre navigateur.
-
----
