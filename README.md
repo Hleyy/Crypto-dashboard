@@ -8,12 +8,14 @@
 * **📊 Graphique Interactif :** Courbe de performance épurée avec affichage des dates et prix précis au survol (Tooltip dynamique).
 * **🧠 Logique de Debouncing :** Optimisation des appels API (600ms) pour économiser la bande passante et éviter les limites de débit (Rate Limiting).
 * **🔄 Inversion Instantanée :** Bouton de swap fluide pour inverser les devises source et cible.
-* **📱 Design "Aesthetic" :** Interface inspirée des dashboards financiers modernes (Coins arrondis, Glassmorphism, Dark Mode natif).
-* **📈 Analyse de Tendance :** Indicateur visuel (Vert/Rouge) basé sur la pente de la courbe de performance.
+* **🌌 Background Réactif & Parallaxe :**  Interface dynamique utilisant framer-motion pour suivre les mouvements de la souris, créant une profondeur visuelle unique.
+
+* **🟢 Glow Dynamique (Sentiment de Marché) :**  Le fond de l'application change de couleur (Vert/Rouge) en temps réel selon la tendance haussière ou baissière de la paire sélectionnée.
 
 ## 🛠️ Stack Technique
 
 * **Framework :** [Next.js 14](https://nextjs.org/) (App Router)
+* **Animations :** Framer Motion (Parallaxe & transitions de couleurs)
 * **Graphiques :** [ApexCharts](https://apexcharts.com/) (Rendu dynamique côté client)
 * **Styles :** [Tailwind CSS](https://tailwindcss.com/)
 * **Icons :** [Lucide React](https://lucide.dev/)
